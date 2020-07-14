@@ -1,2 +1,2 @@
 # Deep-Learning-Hands-on
-Revisiting Stats, ML and Deep Learning concepts 
+Revisiting Stats and Deep Learning concepts 
